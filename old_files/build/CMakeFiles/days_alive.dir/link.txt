@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdays_alive.a  CMakeFiles/days_alive.dir/days_alive.c.o
-/usr/bin/ranlib libdays_alive.a

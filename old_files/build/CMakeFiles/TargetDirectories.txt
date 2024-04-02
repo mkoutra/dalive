@@ -1,4 +1,0 @@
-/home/michalis/Documents/age_project/old_files/build/CMakeFiles/rebuild_cache.dir
-/home/michalis/Documents/age_project/old_files/build/CMakeFiles/main.dir
-/home/michalis/Documents/age_project/old_files/build/CMakeFiles/edit_cache.dir
-/home/michalis/Documents/age_project/old_files/build/CMakeFiles/days_alive.dir
