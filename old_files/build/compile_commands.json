@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/michalis/Documents/age_project/old_files/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/main.dir/main.c.o   -c /home/michalis/Documents/age_project/old_files/main.c",
+  "file": "/home/michalis/Documents/age_project/old_files/main.c"
+},
+{
+  "directory": "/home/michalis/Documents/age_project/old_files/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/days_alive.dir/days_alive.c.o   -c /home/michalis/Documents/age_project/old_files/days_alive.c",
+  "file": "/home/michalis/Documents/age_project/old_files/days_alive.c"
+}
+]

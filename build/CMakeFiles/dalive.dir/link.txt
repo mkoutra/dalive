@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/dalive.dir/src/main.c.o CMakeFiles/dalive.dir/src/dalive.c.o  -o ../dalive 

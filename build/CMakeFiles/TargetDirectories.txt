@@ -1,0 +1,3 @@
+/home/michalis/Documents/dalive/build/CMakeFiles/rebuild_cache.dir
+/home/michalis/Documents/dalive/build/CMakeFiles/edit_cache.dir
+/home/michalis/Documents/dalive/build/CMakeFiles/dalive.dir
